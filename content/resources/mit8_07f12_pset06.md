@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f61fafbd-b7b1-37c4-b23f-6fa13c353e85
 resourcetype: Document
 title: Electromagnetism II, Assignment 6
 uid: 15f7be2e-211a-9d14-64d3-03fc5bfa4b0e

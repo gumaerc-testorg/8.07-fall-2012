@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: cb3aac53-b4aa-fc67-279f-44ee4f46f54a
 resourcetype: Document
 title: Electromagnetism II, Final Exam
 uid: 58f69cae-58e0-b474-ab7c-170ee67ed608

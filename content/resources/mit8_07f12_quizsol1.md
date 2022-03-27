@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: cb3aac53-b4aa-fc67-279f-44ee4f46f54a
 resourcetype: Document
 title: Electromagnetism II, Quiz 1 Solution
 uid: 41acba59-5b23-722c-2028-86335cef3226

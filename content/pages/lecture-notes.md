@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and course instructors,
+  and the lecture notes for each session of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6bf8bf13-cd06-5248-1530-fed1af3313f3
 ---
@@ -25,7 +30,7 @@ INSTRUCTORS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Vector Analysis (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln1)
+{{% resource_link 64baa9cb-5023-c49b-c914-7bee5416b6ec "Vector Analysis (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -37,7 +42,7 @@ Alan Guth
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Rotations in Index Notation (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln2)
+{{% resource_link f6b37803-c7e9-7ba1-6893-13a270ad2b82 "Rotations in Index Notation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -49,7 +54,7 @@ Alan Guth
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Integral Formulation of Basic Equations (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln3)
+ {{% resource_link f2199e24-495c-1d5e-22e0-3cae0e85d96a "Integral Formulation of Basic Equations (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -61,7 +66,7 @@ Alan Guth
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Conductors: Surface Forces and Capacitance (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln4)
+{{% resource_link 1ffda29d-6dda-def8-e37e-4be9c071b4e7 "Conductors: Surface Forces and Capacitance (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -73,7 +78,7 @@ Alan Guth
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Image Charge Method; Separation of Variables (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln5)
+ {{% resource_link 9070df94-553e-c562-2e72-c42641250199 "Image Charge Method; Separation of Variables (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -85,7 +90,7 @@ Alan Guth
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Separation of Variables in Spherical Coordinates (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln6)
+ {{% resource_link bbca948b-5d2a-ea65-4d6f-376327a9fab0 "Separation of Variables in Spherical Coordinates (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -97,7 +102,7 @@ Alan Guth
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[A Spherical Shell of Charge with a Circular Hole (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln7)
+{{% resource_link eef19192-166d-ac3b-7be7-448cbef765d6 "A Spherical Shell of Charge with a Circular Hole (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -109,7 +114,7 @@ Alan Guth
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[The Traceless Symmetric Tensor Expansion and Standard Spherical Harmonics (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln8)
+{{% resource_link 6a67040c-6a90-f70c-8164-cdea63473a30 "The Traceless Symmetric Tensor Expansion and Standard Spherical Harmonics (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -121,7 +126,7 @@ Alan Guth
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Traceless Symmetric Tensor Approach to Legendre Polynomials and Spherical Harmonics (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln9)
+{{% resource_link 0ccc978d-a125-36a8-d953-33ec7726c555 "Traceless Symmetric Tensor Approach to Legendre Polynomials and Spherical Harmonics (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -133,7 +138,7 @@ Alan Guth
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Magnetic Multipole Expansion and Magnetic Dipoles (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln10)
+ {{% resource_link bd0f46df-f196-aa15-97e1-b05415519b79 "Magnetic Multipole Expansion and Magnetic Dipoles (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -145,7 +150,7 @@ Alan Guth
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Magnetic Dipoles and Magnetic Fields in Matter (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln11)
+ {{% resource_link 4c8c6cd3-12d1-91f5-98cd-e03893a5f614 "Magnetic Dipoles and Magnetic Fields in Matter (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -157,7 +162,7 @@ Alan Guth
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Reversed Cherenkov Radiation in Left-Handed Meta-material (PDF – 3.2MB)]({{< baseurl >}}/resources/mit8_07f12_ln12)
+{{% resource_link 2962d609-4e9c-671b-bd3b-26e4a23f5f39 "Reversed Cherenkov Radiation in Left-Handed Meta-material (PDF – 3.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Min Chen
@@ -169,7 +174,7 @@ Min Chen
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Flipping Photons Backward: Reversed Cherenkov Radiation Inspired by Metamaterials (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln13) (Courtesy of Hongsheng Chen and Min Chen. Used with permission.)
+{{% resource_link bd50638e-d7e6-5acb-64b2-fbaec92d7755 "Flipping Photons Backward: Reversed Cherenkov Radiation Inspired by Metamaterials (PDF)" %}} (Courtesy of Hongsheng Chen and Min Chen. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Hongsheng Chen and Min Chen
@@ -181,7 +186,7 @@ Hongsheng Chen and Min Chen
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Electromagnetic Waves (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln14)
+{{% resource_link 2a1404cb-5124-12db-b4cf-6772f1b095b7 "Electromagnetic Waves (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -193,7 +198,7 @@ Alan Guth
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Potentials and Fields (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln15)
+{{% resource_link e41ad0b2-85a2-c825-fe89-09aff2a8dee5 "Potentials and Fields (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -205,7 +210,7 @@ Alan Guth
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Radiation (PDF)]({{< baseurl >}}/resources/mit8_07f12_ln16)
+{{% resource_link d936ba66-d023-1ca4-a190-4845fba0a473 "Radiation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Alan Guth
@@ -217,7 +222,7 @@ Alan Guth
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[E&M Review on Waves, Potentials, and Radiation (PDF – 2.6MB)]({{< baseurl >}}/resources/mit8_07f12_ln17)
+{{% resource_link 48e49265-efad-6d80-f5eb-4216e6554d5b "E&M Review on Waves, Potentials, and Radiation (PDF – 2.6MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Min Chen

@@ -5,6 +5,7 @@ file: /courses/8-07-electromagnetism-ii-fall-2012/d46f82928023212f2914c29228dcea
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Electromagnetism II, Final Formula Sheet
 uid: d46f8292-8023-212f-2914-c29228dcea10
 ---
 This file contains information regarding final formula sheet.
-

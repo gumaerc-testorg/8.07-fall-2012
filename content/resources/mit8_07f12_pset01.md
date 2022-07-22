@@ -5,6 +5,7 @@ file: /courses/8-07-electromagnetism-ii-fall-2012/b749f0967109af1c15b5786340b2f6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Electromagnetism II, Assignment 1
 uid: b749f096-7109-af1c-15b5-786340b2f6cc
 ---
 This file contains information regarding problem set 1.
-

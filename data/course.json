@@ -24,7 +24,7 @@
     "website": "8-07-electromagnetism-ii-fall-2012"
   },
   "course_title": "Electromagnetism II",
-  "course_description": "This course is the second in a series on Electromagnetism beginning with Electromagnetism I ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/)). It is a survey of basic electromagnetic phenomena: electrostatics; magnetostatics; electromagnetic properties of matter; time-dependent electromagnetic fields; Maxwell's equations; electromagnetic waves; emission, absorption, and scattering of radiation; and relativistic electrodynamics and mechanics.\n",
+  "course_description": "This course is the second in a series on Electromagnetism beginning with Electromagnetism I ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/)). It is a survey of basic electromagnetic phenomena: electrostatics; magnetostatics; electromagnetic properties of matter; time-dependent electromagnetic fields; Maxwell's equations; electromagnetic waves; emission, absorption, and scattering of radiation; and relativistic electrodynamics and mechanics.",
   "department_numbers": [
     "8"
   ],
@@ -39,6 +39,7 @@
     "Lecture Notes",
     "Exams with Solutions"
   ],
-  "site_uid": "3ed66a4e-2632-4bd1-bc8d-1e139158f9a5",
+  "site_uid": "1164f327-84bc-42cf-ad8c-26d469afb30c",
+  "short_id": "8.07-fall-2012",
   "title": "Course Metadata"
 }

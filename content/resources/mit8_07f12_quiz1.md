@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding quiz 1.
 file: /courses/8-07-electromagnetism-ii-fall-2012/7d541f89b1610d64e6a76599a79ef7c1_MIT8_07F12_quiz1.pdf
+file_size: 206722
 file_type: application/pdf
 learning_resource_types:
 - Exams

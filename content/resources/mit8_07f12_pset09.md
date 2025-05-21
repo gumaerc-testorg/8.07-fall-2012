@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 9.
-file: /ol-ocw-studio-app/courses/8-07-electromagnetism-ii-fall-2012/3f21139c111e925bf15233043b9e2635_MIT8_07F12_pset09.pdf
+file: /courses/8-07-electromagnetism-ii-fall-2012/3f21139c111e925bf15233043b9e2635_MIT8_07F12_pset09.pdf
 file_size: 91669
 file_type: application/pdf
 learning_resource_types:
